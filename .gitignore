@@ -3,5 +3,6 @@
 .metals
 .vscode
 .bloop
+.bsp
 project
 target
